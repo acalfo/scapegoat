@@ -1,0 +1,24 @@
+{
+  "name": "scapegoat",
+  "version": "1.0.0",
+  "description": "A small library to do stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acalfo/scapegoat.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Alex Calfo <alexcalfo@gmail.com> (https://github.com/acalfo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acalfo/scapegoat/issues"
+  },
+  "homepage": "https://github.com/acalfo/scapegoat#readme"
+}
